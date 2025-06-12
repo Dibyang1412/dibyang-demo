@@ -1,4 +1,4 @@
 # dibyang-demo
 This is my first Git Repository.
 <br>
-Author - Dibyang
+Author - Dibyang (Dishu)
